@@ -1,0 +1,14 @@
+.mainred {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 30px;
+  border: 1px solid red;
+  border-radius: 20px;
+  padding: 0;
+  height: 85vh; }
+
+#seccions {
+  display: flex;
+  justify-content: space-around; }
